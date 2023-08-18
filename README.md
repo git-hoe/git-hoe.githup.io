@@ -1,1 +1,1 @@
-# git-hoe.githup.io
+# git-hoe.github.io
